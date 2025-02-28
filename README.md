@@ -1,5 +1,5 @@
 # Memory Allocation Techniques
-A C++ implementation of memory allocation strategies: first fit, best fit, and worst fit.
+A C++ implementation of memory allocation strategies: first fit, best fit, and worst fit as a part of my OPERATING SYSTEM assignment.
 
 ### First Fit Algorithm
 1. Allocates the first available hole it finds.
